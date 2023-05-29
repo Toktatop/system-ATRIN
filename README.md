@@ -14,8 +14,14 @@ NOTES
 
 version systemATRIN0.5
 UPDATES
+
   1.added a new pip manager
+  
   2.upgraded enlgish language
+  
   3.upgraded kolcode
+  
   4.added new proggrams
+  
   5.added dos
+  
