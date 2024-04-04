@@ -25,3 +25,6 @@ UPDATES
   
   5.added dos
   
+it's a final version
+because the code is hard to understand also its contains many bugs
+there's a chanche that i gonna update it
