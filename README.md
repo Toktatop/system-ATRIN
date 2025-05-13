@@ -1,11 +1,9 @@
 # system-ATRIN
 here you can download the system
 
-this is a small system that I have not finished making in the future I will upgrade the system
-
 NOTES
 
-  1.if you gonna select russian language it gonna take enlgish because russian is not done
+  1.if you gonna select russian language it gonna take english because russian is not done
   
   2.English is not done completely
   
@@ -25,6 +23,4 @@ UPDATES
   
   5.added dos
   
-it's a final version
-because the code is hard to understand also its contains many bugs
-there's a chanche that i gonna update it
+
