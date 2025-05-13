@@ -81,8 +81,8 @@ init()
 
 # zapusk peremenih
 testopen = 0
-version_url = 'https://raw.githubusercontent.com/Topkatopp/system-ATRIN/main/versionsys.txt'
-update_url = 'https://github.com/Topkatopp/system-ATRIN/archive/refs/heads/main.zip'
+version_url = 'https://raw.githubusercontent.com/Toktatop/system-ATRIN/main/versionsys.txt'
+update_url = 'https://github.com/Toktatop/system-ATRIN/archive/refs/heads/main.zip'
 updateneed = 0
 current_version = 'systemATRIN0.5'
 zip_path = "systemATRIN.zip"
